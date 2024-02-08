@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/future-clan-bootcamp.git
+   git clone https://github.com/tallZacchaeus/FutureClan.git
    ```
 
 2. Open the project directory in your preferred code editor.
